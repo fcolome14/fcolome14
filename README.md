@@ -12,14 +12,14 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 ---
 
 ## 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-508f3f?logo=mongodb&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)](https://fastapi.tiangolo.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)](https://www.docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)](https://www.postgresql.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)](https://react.dev/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-508f3f?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
+[![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 
 ---
